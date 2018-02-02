@@ -1,0 +1,8 @@
+---
+buildName: "mindaStopGivingMeNames"
+links:
+  Git: "https://github.com/AlexanderOwen-MeehanWork/mindaStopGivingMeNames.git"
+  Job: "http://10.0.0.55:80/job/mindaStopGivingMeNames"
+environments:
+  Testing: "devopsns-testing"
+useLocalFlow: true
